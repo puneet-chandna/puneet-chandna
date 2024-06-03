@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on my front-end skills and my portfolio website<br>👯 I’m looking to collaborate on building front-end of website<br>🌱 I’m currently learning back-end devopment and rust <br>💬 Ask me about nothing :)<br>⚡ Fun fact - there is no fun fact about me, I am an average guy just trying to build something cool
+🔭 I’m currently working on my front-end skills and my portfolio website <br>🌱 I’m currently learning back-end devopment and rust <br>💬 Ask me about nothing :)<br>⚡ Fun fact - there is no fun fact about me, I am an average guy just trying to build something cool
 
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/puneet-chandna/achievements?format=svg&limit=3" width="350" />
