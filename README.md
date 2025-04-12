@@ -76,14 +76,10 @@
 
 ## 😂 Random Dev Meme
 <p align="center">
-  <img src="https://memer-new.vercel.app/api" height="400" />
+  <img src="meme-api.com/gimme" height="400" />
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=puneetchandna21&label=Profile%20Views&color=3&icon=3&pretty=false" />
-  </a>
-</p>
+
 
