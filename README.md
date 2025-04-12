@@ -1,6 +1,8 @@
 <h1 align="center">Hey there, I'm Puneet Chandna 👋</h1>
 <p align="center">
-  🚀 Just another curious soul building cool things and trying not to break production 🙃
+  🚀 Just another curious soul building cool things and trying not to break production 🙃  
+  <br/>
+  🌐 <a href="https://puneetchandna.com" target="_blank">puneetchandna.com</a>
 </p>
 
 ---
@@ -30,6 +32,9 @@
 ## 🌐 Let's Connect
 
 <p align="left">
+  <a href="https://puneetchandna.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/puneet-chandna2004" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
