@@ -75,13 +75,15 @@
 ---
 
 ## 😂 Random Dev Meme
-
 <p align="center">
-  <img src="https://memer-new.vercel.app/" height="400" />
+  <img src="https://memer-new.vercel.app/api" height="400" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=puneet-chandna&icon=2&color=2" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=puneetchandna21&label=Profile%20Views&color=3&icon=3&pretty=false" />
+  </a>
 </p>
+
