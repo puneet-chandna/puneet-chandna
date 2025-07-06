@@ -74,11 +74,8 @@
 
 ---
 
-## 😂 Random Dev Meme
-<p align="center">
-  <img src="https://programmermemes.herokuapp.com" alt="Random Programmer Meme" height="400" />
-</p>
----
+
+
 
 
 
