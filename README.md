@@ -5,6 +5,17 @@
   🌐 <a href="https://puneetchandna.com" target="_blank">puneetchandna.com</a>
 </p>
 
+![Alt Text](dino.gif)
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=This+is+my+CREATIVITY+zone!)](https://git.io/typing-svg)
+
+🎓 Final Year @ VIT Chennai
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&weight=800&size=21&pause=1000&color=4363F7&width=435&lines=Learning+New+Things+Everyday!)](https://git.io/typing-svg)
+
+
 ---
 
 # 💫 About Me:
