@@ -1,63 +1,312 @@
-<h1 align="center">Hey there, I'm Puneet Chandna 👋</h1>
-<p align="center">
-  🚀 Just another curious soul building cool things and trying not to break production 🙃  
-  <br/>
-  🌐 <a href="https://puneetchandna.com" target="_blank">puneetchandna.com</a>
-</p>
 
-![Alt Text](dino.gif)
+<!-- WELCOME TO THE MATRIX -->
+<div align="center">
 
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                       ║
+║   ██████╗ ██╗   ██╗███╗   ██╗███████╗███████╗████████╗                             ║
+║   ██╔══██╗██║   ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝                             ║
+║   ██████╔╝██║   ██║██╔██╗ ██║█████╗  █████╗     ██║                                ║
+║   ██╔═══╝ ██║   ██║██║╚██╗██║██╔══╝  ██╔══╝     ██║                                ║
+║   ██║     ╚██████╔╝██║ ╚████║███████╗███████╗   ██║                                ║
+║   ╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝   ╚═╝                                ║
+║                                                                                       ║
+║                          C H A N D N A . E X E                                       ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
+```
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=SYSTEM%20BREACH%20DETECTED&fontSize=20&color=0:8871e5,100:b678c4&stroke=b678c4" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=This+is+my+CREATIVITY+zone!)](https://git.io/typing-svg)
+<!-- TERMINAL INTERFACE -->
+<div align="left">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25" height="25" />
 
-🎓 Final Year @ VIT Chennai
+```javascript
+class PuneetChandna extends Human {
+  constructor() {
+    this.name = "Puneet Chandna";
+    this.role = "Code Architect & Bug Creator";
+    this.location = "127.0.0.1";
+    this.workingOn = "Trying not to break prod (again)";
+    this.funFact = "404: Fun fact not found";
+  }
+  
+  getCurrentStatus() {
+    return {
+      🎓: "VIT Chennai - Final Year (surviving)",
+      🚀: "Building things that sometimes work",
+      💭: "Thinking about that bug from 3 weeks ago",
+      🎮: "Procrastinating productively",
+      ☕: "Coffee level: critically low"
+    };
+  }
+  
+  dailyRoutine() {
+    while(alive) {
+      code();
+      debug();
+      coffee++;
+      sleep--; // who needs sleep anyway?
+      if(Math.random() > 0.5) {
+        breakProduction();
+        panic();
+        fixBugsAtMidnight();
+      }
+    }
+  }
+}
+```
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&weight=800&size=21&pause=1000&color=4363F7&width=435&lines=Learning+New+Things+Everyday!)](https://git.io/typing-svg)
-
+<!-- ANIMATED BANNER -->
+<img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
-# 💫 About Me:
-🔭 Currently deep-diving into DSA and leveling up my backend game<br>🧠 Exploring emerging tech like Web3, AI, and blockchain<br>🎯 Trying to get a job out there :|<br>💬 Ask me about... absolutely nothing 😄<br>⚡ Fun Fact:  there is no fun fact about me, I'm just a chill average guy trying to build something awesome 💻
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> TECH ARSENAL
 
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
+<br>Docker
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br>Vercel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+<br>Bash
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" />
+<br>LaTeX
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+<br>NPM
+</td>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="48" height="48" alt="React" />
+<br>Web3.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+</tr>
+</table>
+---
 
-## 🌐 Socials:
-<a href="https://instagram.com/puneet_chandna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puneet_chandna_" height="30" width="40" /></a>
-<a href="https://twitter.com/puneet_chandna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puneet_chandna_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/puneet-chandna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puneet-chandna" height="30" width="40" /></a>
-<a href="https://dev.to/puneet-chandna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="puneet-chandna" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/puneet_chandna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puneet_chandna" height="30" width="40" /></a>
+### 📊 REAL-TIME STATS DASHBOARD
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=puneet-chandna&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Puneet Chandna github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneet-chandna&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+</div>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet-chandna&theme=highcontrast&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="puneet-chandna" />
 </p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=puneet-chandna&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=puneet-chandna&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=puneet-chandna&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=puneet-chandna&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🎮 ACHIEVEMENT UNLOCKED
 
-# Blog posts
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=puneet-chandna&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+
+---
+
+### 📈 CONTRIBUTION GRAPH (a.k.a my grass addiction)
+
+[![Puneet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=puneet-chandna&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🎯 CURRENT QUESTS
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔥 Active Missions
+- [ ] Get a job (difficulty: LEGENDARY)
+- [ ] Master DSA (in progress: 42%)
+- [ ] Build something that doesn't break
+- [ ] Touch grass occasionally
+- [ ] Convince myself that I know what I'm doing
+
+</td>
+<td width="50%">
+
+#### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [10 Must-Read Books for Software Engineers in 2025 📘💻](https://dev.to/puneet-chandna/10-must-read-books-for-software-engineers-in-2025-4717)
-- [I Accidentally Discovered a Hidden Gem for Testing Premium AI Models &lpar;Completely Free!&rpar;](https://dev.to/puneet-chandna/i-accidentally-discovered-a-hidden-gem-for-testing-premium-ai-models-completely-free-2k3c)
+- [I Accidentally Discovered a Hidden Gem for Testing Premium AI Models (Completely Free!)](https://dev.to/puneet-chandna/i-accidentally-discovered-a-hidden-gem-for-testing-premium-ai-models-completely-free-2k3c)
 <!-- BLOG-POST-LIST:END -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=puneet-chandna&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</td>
+</tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=puneet-chandna&icon=1&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/puneet_chandna) 
+### 🎪 RANDOM STUFF THAT MAKES THIS PROFILE COOL
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikeebhatt&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikeebhatt" /> </p>
+<details>
+<summary>⚡ Click for a surprise!</summary>
+<br>
 
+```ascii
+    ╱|、
+   (˚ˎ 。7  
+    |、˜〵          
+   じしˍ,)ノ
+   
+   You found my secret cat!
+   His name is Bug and he lives in my code.
+```
+
+<img src="https://myreadme.vercel.app/api/embed/puneet-chandna?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimagined-readme" />
+
+</details>
+
+<details>
+<summary>🎲 Random Dev Joke</summary>
+<br>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</details>
+
+<details>
+<summary>🎵 What I'm vibing to</summary>
+<br>
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317acb6bxzeml43u3isdeoydbf5a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=317acb6bxzeml43u3isdeoydbf5a&redirect=true)
+  
+</details>
+
+---
+
+### 🌐 FIND ME IN THE MATRIX
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://puneetchandna.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/puneet-chandna)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/puneet_chandna_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/puneet_chandna_)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/puneet-chandna)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/puneet_chandna)
+
+</div>
+
+---
+
+### 💭 RANDOM WISDOM
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+### 🎬 ENDING CREDITS
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72&desc=Don't%20forget%20to%20star%20my%20repos%20if%20you%20like%20them%20⭐&descSize=20&descAlignY=92" width="100%">
+
+<img src="https://komarev.com/ghpvc/?username=puneet-chandna&label=Stalkers%20Count&color=0e75b6&style=for-the-badge" alt="puneet-chandna" />
+
+<br>
+<br>
+
+**[⬆ back to top](#)**
+
+</div>
+
+<!- Easter egg: Try viewing the source code ;) -->
+<!-- 
+01001001 00100000 01110011 01100101 01100101 00100000
+01111001 01101111 01110101 00100111 01110010 01100101 
+00100000 01100001
