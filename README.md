@@ -245,7 +245,7 @@ class PuneetChandna extends Human {
    His name is Bug and he lives in my code.
 ```
 
-<img src="https://myreadme.vercel.app/api/embed/puneet-chandna?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimagined-readme" />
+
 
 </details>
 
