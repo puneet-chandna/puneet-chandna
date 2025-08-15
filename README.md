@@ -115,7 +115,7 @@ class PuneetChandna extends Human {
 <br>MongoDB
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48" height="48" alt="NodeJS" />
 <br>Node.js
 </td>
 <td align="center" width="96">
@@ -123,7 +123,7 @@ class PuneetChandna extends Human {
 <br>Next.js
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="48" height="48" alt="Git" />
 <br>Git
 </td>
 <td align="center" width="96">
@@ -131,7 +131,7 @@ class PuneetChandna extends Human {
 <br>Vercel
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="48" height="48" alt="HTML5" />
 <br>HTML5
 </td>
 </tr>
@@ -141,7 +141,7 @@ class PuneetChandna extends Human {
 <br>Bash
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="48" height="48" alt="C" />
 <br>C
 </td>
 <td align="center" width="96">
@@ -153,7 +153,7 @@ class PuneetChandna extends Human {
 <br>NPM
 </td>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="48" height="48" alt="React" />
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="48" height="48" alt="React" />
 <br>Web3.js
 </td>
 <td align="center" width="96">
@@ -161,7 +161,7 @@ class PuneetChandna extends Human {
 <br>Linux
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48" height="48" alt="VSCode" />
 <br>VS Code
 </td>
 <td align="center" width="96">
@@ -244,7 +244,7 @@ class PuneetChandna extends Human {
    You found my secret cat!
    His name is Bug and he lives in my code.
 ```
-
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f" width="400"> -->
 
 
 </details>
