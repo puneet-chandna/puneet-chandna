@@ -219,8 +219,8 @@ class PuneetChandna extends Human {
 
 #### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Must-Read Books for Software Engineers in 2025 📘💻](https://dev.to/puneet-chandna/10-must-read-books-for-software-engineers-in-2025-4717)
-- [I Accidentally Discovered a Hidden Gem for Testing Premium AI Models &lpar;Completely Free!&rpar;](https://dev.to/puneet-chandna/i-accidentally-discovered-a-hidden-gem-for-testing-premium-ai-models-completely-free-2k3c)
+- [10 Must-Read Books for Software Engineers in 2025 📘💻](https://forem.com/puneet-chandna/10-must-read-books-for-software-engineers-in-2025-4717)
+- [I Accidentally Discovered a Hidden Gem for Testing Premium AI Models &lpar;Completely Free!&rpar;](https://forem.com/puneet-chandna/i-accidentally-discovered-a-hidden-gem-for-testing-premium-ai-models-completely-free-2k3c)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
