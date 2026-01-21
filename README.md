@@ -189,7 +189,7 @@ class PuneetChandna extends Human {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=puneet-chandna&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=puneet-chandna&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
