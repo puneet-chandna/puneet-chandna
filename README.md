@@ -16,7 +16,6 @@
 ╚═══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=SYSTEM%20BREACH%20DETECTED&fontSize=20&color=0:8871e5,100:b678c4&stroke=b678c4" width="100%">
 
 <!-- TERMINAL INTERFACE -->
 <div align="left">
