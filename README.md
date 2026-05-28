@@ -173,10 +173,7 @@ class PuneetChandna extends Human {
 
 ### 📊 REAL-TIME STATS DASHBOARD
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=puneet-chandna&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Puneet Chandna github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneet-chandna&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-</div>
+
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet-chandna&theme=highcontrast&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="puneet-chandna" />
