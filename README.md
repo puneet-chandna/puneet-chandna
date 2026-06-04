@@ -287,11 +287,11 @@ class PuneetChandna extends Human {
 
 ---
 
-### 🎬 ENDING CREDITS
+
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72&desc=Don't%20forget%20to%20star%20my%20repos%20if%20you%20like%20them%20⭐&descSize=20&descAlignY=92" width="100%">
+
 
 <img src="https://komarev.com/ghpvc/?username=puneet-chandna&label=Stalkers%20Count&color=0e75b6&style=for-the-badge" alt="puneet-chandna" />
 
