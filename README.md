@@ -215,6 +215,7 @@ class PuneetChandna extends Human {
 
 #### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I built recall-first search on PostgreSQL](https://dev.to/puneet-chandna/why-we-built-recall-first-search-on-postgresql-4ga4)
 - [🚨 I Fell for the Krutrim Hype &lpar;Twice&rpar; - Here&#39;s Why You Shouldn&#39;t](https://dev.to/puneet-chandna/i-fell-for-the-krutrim-hype-twice-heres-why-you-shouldnt-g5p)
 - [10 Must-Read Books for Software Engineers in 2025 📘💻](https://dev.to/puneet-chandna/10-must-read-books-for-software-engineers-in-2025-4717)
 - [I Accidentally Discovered a Hidden Gem for Testing Premium AI Models &lpar;Completely Free!&rpar;](https://dev.to/puneet-chandna/i-accidentally-discovered-a-hidden-gem-for-testing-premium-ai-models-completely-free-2k3c)
