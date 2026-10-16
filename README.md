@@ -185,7 +185,7 @@ class PuneetChandna extends Human {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=puneet-chandna&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=puneet-chandna&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -193,7 +193,7 @@ class PuneetChandna extends Human {
 
 ### 📈 CONTRIBUTION GRAPH (a.k.a my grass addiction)
 
-[![Puneet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=puneet-chandna&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Puneet's github activity graph](https://github-activity-graph.luckylinux.dev/graph?username=puneet-chandna&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -256,8 +256,8 @@ class PuneetChandna extends Human {
 <details>
 <summary>🎵 What I'm vibing to</summary>
 <br>
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317acb6bxzeml43u3isdeoydbf5a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=317acb6bxzeml43u3isdeoydbf5a&redirect=true)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317acb6bxzeml43u3isdeoydbf5a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317acb6bxzeml43u3isdeoydbf5a&redirect=true)
   
 </details>
 
