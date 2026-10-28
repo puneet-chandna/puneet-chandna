@@ -2,60 +2,38 @@
 <!-- WELCOME TO THE MATRIX -->
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                       ║
-║   ██████╗ ██╗   ██╗███╗   ██╗███████╗███████╗████████╗                             ║
-║   ██╔══██╗██║   ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝                             ║
-║   ██████╔╝██║   ██║██╔██╗ ██║█████╗  █████╗     ██║                                ║
-║   ██╔═══╝ ██║   ██║██║╚██╗██║██╔══╝  ██╔══╝     ██║                                ║
-║   ██║     ╚██████╔╝██║ ╚████║███████╗███████╗   ██║                                ║
-║   ╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝   ╚═╝                                ║
-║                                                                                       ║
-║                          C H A N D N A . E X E                                       ║
-╚═══════════════════════════════════════════════════════════════════════════════════════╝
+```text
+     ___  __  ___  ________________
+    / _ \/ / / / |/ / __/ __/_  __/
+   / ___/ /_/ /    / _// _/  / /
+  /_/   \____/_/|_/___/___/ /_/
+
+  _______ _____   _  _____  _  _____
+ / ___/ // / _ | / |/ / _ \/ |/ / _ |
+/ /__/ _  / __ |/    / // /    / __ |
+\___/_//_/_/ |_/_/|_/____/_/|_/_/ |_|
 ```
 
 
 <!-- TERMINAL INTERFACE -->
 <div align="left">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25" height="25" />
 
-```javascript
-class PuneetChandna extends Human {
-  constructor() {
-    this.name = "Puneet Chandna";
-    this.role = "Code Architect & Bug Creator";
-    this.location = "127.0.0.1";
-    this.workingOn = "Trying not to break prod (again)";
-    this.funFact = "404: Fun fact not found";
-  }
-  
-  getCurrentStatus() {
-    return {
-      🎓: "VIT Chennai - Final Year (surviving)",
-      🚀: "Building things that sometimes work",
-      💭: "Thinking about that bug from 3 weeks ago",
-      🎮: "Procrastinating productively",
-      ☕: "Coffee level: critically low"
-    };
-  }
-  
-  dailyRoutine() {
-    while(alive) {
-      code();
-      debug();
-      coffee++;
-      sleep--; // who needs sleep anyway?
-      if(Math.random() > 0.5) {
-        breakProduction();
-        panic();
-        fixBugsAtMidnight();
-      }
-    }
-  }
-}
-```
+I build developer tools, backend systems, and research software.
+
+### Selected projects
+
+- **[requests-native](https://github.com/puneet-chandna/requests-native)** — A shared Rust HTTP core with async and blocking clients, plus Python's familiar requests API.
+- **[Lattora](https://github.com/puneet-chandna/Lattora)** — A terminal workbench for reproducible VM placement experiments with CloudSim Plus.
+- **[0DTE Dealer Gamma](https://github.com/puneet-chandna/0DTE-dealer-gamma)** — SPX options gamma exposure, zero-gamma levels, and historical session replay.
+- **[Puneet Portfolio](https://github.com/puneet-chandna/puneet-portfolio)** — A WebGL portfolio with a second entrance over SSH.
+- **[VIT PYQPs Paaji](https://github.com/puneet-chandna/VIT-PYQPs-Paaji)** — A community archive of 1,800+ past exam papers for VIT students.
+- **[Awesome LLM Papers](https://github.com/puneet-chandna/awesome-llm-papers)** — A curated reading map of LLM research, from foundations to recent work.
+
+### Contributions
+
+- **[Charmbracelet / Wish](https://github.com/charmbracelet/wish)** — Fixed terminal I/O handling for Bubble Tea child processes. [Merged PR](https://github.com/charmbracelet/wish/pull/522).
+- **[IITB X Project](https://github.com/IITB-X-Project/sass)** — Optimized API payloads and database queries; added request validation. [Merged PR](https://github.com/IITB-X-Project/sass/pull/14).
+
 </div>
 
 <!-- ANIMATED BANNER -->
