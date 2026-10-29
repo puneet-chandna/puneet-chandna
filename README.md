@@ -2,64 +2,43 @@
 <!-- WELCOME TO THE MATRIX -->
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                       ║
-║   ██████╗ ██╗   ██╗███╗   ██╗███████╗███████╗████████╗                             ║
-║   ██╔══██╗██║   ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝                             ║
-║   ██████╔╝██║   ██║██╔██╗ ██║█████╗  █████╗     ██║                                ║
-║   ██╔═══╝ ██║   ██║██║╚██╗██║██╔══╝  ██╔══╝     ██║                                ║
-║   ██║     ╚██████╔╝██║ ╚████║███████╗███████╗   ██║                                ║
-║   ╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝   ╚═╝                                ║
-║                                                                                       ║
-║                          C H A N D N A . E X E                                       ║
-╚═══════════════════════════════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="banner-1-contribution-graph.svg" alt="Puneet Chandna" width="100%">
+</p>
 
 
 <!-- TERMINAL INTERFACE -->
 <div align="left">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25" height="25" />
 
-```javascript
-class PuneetChandna extends Human {
-  constructor() {
-    this.name = "Puneet Chandna";
-    this.role = "Code Architect & Bug Creator";
-    this.location = "127.0.0.1";
-    this.workingOn = "Trying not to break prod (again)";
-    this.funFact = "404: Fun fact not found";
-  }
-  
-  getCurrentStatus() {
-    return {
-      🎓: "VIT Chennai - Final Year (surviving)",
-      🚀: "Building things that sometimes work",
-      💭: "Thinking about that bug from 3 weeks ago",
-      🎮: "Procrastinating productively",
-      ☕: "Coffee level: critically low"
-    };
-  }
-  
-  dailyRoutine() {
-    while(alive) {
-      code();
-      debug();
-      coffee++;
-      sleep--; // who needs sleep anyway?
-      if(Math.random() > 0.5) {
-        breakProduction();
-        panic();
-        fixBugsAtMidnight();
-      }
-    }
-  }
-}
-```
+I build developer tools, backend systems, and research software.
+
+### Tools & research
+
+- <img src="https://raw.githubusercontent.com/puneet-chandna/requests-native/main/docs/assets/logo.png" width="22" height="22" alt="Requests Native logo"> **[requests-native](https://github.com/puneet-chandna/requests-native)** — Rust HTTP clients with async, blocking, and Python requests-compatible APIs.
+- 🦛 **[Lattora](https://github.com/puneet-chandna/Lattora)** — Run reproducible VM placement experiments from your terminal.
+- 📈 **[0DTE Dealer Gamma](https://github.com/puneet-chandna/0DTE-dealer-gamma)** — Explore SPX gamma exposure, zero-gamma levels, and historical session replays.
+- 🌊 **[Water Brakes](https://github.com/puneet-chandna/water-brakes)** — Terrain analysis and interactive maps for exploring swale and trench placement.
+
+### Apps & experiments
+
+- 🎞️ **[ASCII Video Insanity](https://github.com/puneet-chandna/ascii-video-insanity)** — Turn videos into full-color ASCII cinema in your terminal.
+- 🚦 **[Road Safety GPT](https://github.com/puneet-chandna/Road-Safety-GPT)** — Describe a road safety problem; explore AI-suggested interventions with cited references.
+- ✨ **[Gemini Chat](https://github.com/puneet-chandna/gemini)** — A Gemini chat clone i built in clg when i was learning react.
+- 🎬 **[Emotion-Aware Movie Recommendations](https://github.com/puneet-chandna/Emotion-Aware-Movie-Recommendation-System-Using-Hybrid-Emotional-States)** — Exploring movie moods through sentiment analysis and Sentence-BERT embeddings.
+- 💊 **[Smart Pill Dispenser](https://github.com/puneet-chandna/Smart-Pill-Dispenser)** — Arduino experiments with fingerprint access, scheduled dispensing, and SMS reminders.
+
+### Web & community
+
+- 🖥️ **[Puneet Portfolio](https://github.com/puneet-chandna/puneet-portfolio)** — My portfolio in WebGL. Or enter through your terminal: `ssh puneet.space`.
+- 🎓 **[VIT PYQPs Paaji](https://github.com/puneet-chandna/VIT-PYQPs-Paaji)** — A community archive of 1,800+ past exam papers for VIT students.
+- 📚 **[Awesome LLM Papers](https://github.com/puneet-chandna/awesome-llm-papers)** — A curated collection of LLM research, from foundations to recent breakthroughs.
+
+### Contributions
+
+- <img src="https://avatars.githubusercontent.com/u/57376114?v=4" width="20" height="20" alt="Charmbracelet logo"> **[Charmbracelet / Wish](https://github.com/charmbracelet/wish)** — Fixed terminal I/O handling for Bubble Tea child processes. [Merged PR](https://github.com/charmbracelet/wish/pull/522).
+- 🏛️ **[IITB X Project](https://github.com/IITB-X-Project/sass)** — Optimized API payloads and database queries; added request validation. [Merged PR](https://github.com/IITB-X-Project/sass/pull/14).
 </div>
 
-<!-- ANIMATED BANNER -->
-<img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
@@ -168,7 +147,47 @@ class PuneetChandna extends Human {
 <br>Postman
 </td>
 </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://thanhnguyxnorg.github.io/Techstack-Studio/icons/animated/rust.svg" alt="Rust" width="48" height="48" />
+<br>Rust
+</td>
+
+<td align="center" width="96">
+<img src="https://thanhnguyxnorg.github.io/Techstack-Studio/icons/animated/go.svg" alt="Go" width="48" height="48" />
+<br>Go
+</td>
+
+<td align="center" width="96">
+<img src="https://thanhnguyxnorg.github.io/Techstack-Studio/icons/animated/fastapi.svg" alt="FastAPI" width="48" height="48" />
+<br>FastAPI
+</td>
+
+<td align="center" width="96">
+<img src="https://thanhnguyxnorg.github.io/Techstack-Studio/icons/animated/postgresql.svg" alt="PostgreSQL" width="48" height="48" />
+<br>PostgreSQL
+</td>
+
+<td align="center" width="96">
+<img src="https://thanhnguyxnorg.github.io/Techstack-Studio/icons/animated/supabase.svg" alt="Supabase" width="48" height="48" />
+<br>Supabase
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator-tsg.vercel.app/gcp-icon.svg" alt="Google Cloud" width="48" height="48" />
+<br>Google Cloud
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/saveway/codex-usage-monitor/main/native-webview2/codex-animated-logo.gif" alt="Codex" width="48" height="48" />
+<br>Codex
+</td>
+
+<td align="center" width="96">
+<img src="https://thanhnguyxnorg.github.io/Techstack-Studio/icons/animated/anthropic.svg" alt="Anthropic logo" width="48" height="48" />
+<br>Claude Code
+</td>
+</tr>
 </table>
+
 ---
 
 ### 📊 REAL-TIME STATS DASHBOARD
